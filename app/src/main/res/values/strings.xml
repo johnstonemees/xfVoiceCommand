@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">xfVoiceCommand</string>
+    <string name="action_settings">Settings</string>
+    <string name="voiceCommand">语音识别</string>
+</resources>
